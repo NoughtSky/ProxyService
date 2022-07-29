@@ -16,7 +16,7 @@ This makes Roblox Http requests more complete by adding support for the followin
 - Read response even if the response contains a 400- or 500- status code (this includes body, headers, and the status code and message).
 - Access sites usually unavailable, including roblox.com APIs as well as discord webhooks (and being able to view headers means you will be able to obey discord rate limits, which means this proxy [is allowed](https://twitter.com/lolpython/status/967211620970545153)).
 
-**Server Setup Tutorial**
+
 
 - Create a heroku account here: https://signup.heroku.com. Make sure to verify your email and set a password. If you already have a heroku account, log into it.
 - Click this button
